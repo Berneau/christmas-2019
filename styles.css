@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Tangerine');
+@font-face {
+  font-family: 'Tangerine';
+  src: url('assets/fonts/Tangerine-Regular.ttf')  format('truetype');
+}
 
 html, body, div, p { margin: 0; padding: 0; }
 
